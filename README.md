@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor - Social links profile solution](https://mnsa2020.github.io/Frontend-Mentor---Social-links-profile-solution/)
+- Live Site URL: [Frontend Mentor - Social links profile solution](https://mnsa2020.github.io/Frontend-Mentor---Social-links-profile-solution/)
 
 ## My process
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Mohamed Ahmed](https://www.your-site.com)
+- Website - [Mohamed Ahmed](https://github.com/mnsa2020)
 - Frontend Mentor - [@mnsa2020](https://www.frontendmentor.io/profile/mnsa2020)
